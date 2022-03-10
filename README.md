@@ -11,5 +11,5 @@
 
 * An Introduction to Deep Learning for the Physical Layer (  IEEE Transactions on Cognitive Communications and Networking, Dec. 2017 )
   
-  * [Original Paper Link](https://ieeexplore.ieee.org/abstract/document/8054694) / [Summary PDF](/Lecture_Notes/A_Novel_Random_Access.pdf) / [Code Practice](/Practice_Codes/Autoencoder_wireless_communication.py)   
+  * [Original Paper Link](https://ieeexplore.ieee.org/abstract/document/8054694) / [Summary PDF](/Lecture_Notes/Introduction_to_DL_for_Physical_Layer.pdf) / [Code Practice](/Practice_Codes/Autoencoder_wireless_communication.py)   
 
